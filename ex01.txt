@@ -1,1 +1,4 @@
-test 001
+gitgub 筆記
+
+1.git restore "檔名"or"."  <只還原上一個版本><'.' 是指該目錄的所有檔案>
+2.git reset head "版本號" <指定還原某個版本>
